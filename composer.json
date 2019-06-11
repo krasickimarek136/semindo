@@ -1,0 +1,25 @@
+{
+    "name": "new-archero-cheats/archero-free-gems",
+    "description": "{WORKING} Archero cheats - Guide to get free Gems and Coins, unlimited Recovers (ios android) 2019 version!",
+    "homepage": "https://github.com/pwdelena/archero/",
+	"keywords": ["archero cheats","archero hack","archero mod apk","archero gems"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLICK HERE to unlock Archero cheat",
+            "homepage": "https://mobiletiperz.com/archero-cheats-guide-tricks",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
