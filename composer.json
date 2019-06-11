@@ -1,14 +1,14 @@
 {
-    "name": "new-archero-cheats/archero-free-gems",
-    "description": "{WORKING} Archero cheats - Guide to get free Gems and Coins, unlimited Recovers (ios android) 2019 version!",
-    "homepage": "https://github.com/pwdelena/archero/",
-	"keywords": ["archero cheats","archero hack","archero mod apk","archero gems"],
+    "name": "hello-world/test-package",
+    "description": "test package",
+    "homepage": "https://github.com/krasickimarek136/semindo",
+	"keywords": [""],
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "CLICK HERE to unlock Archero cheat",
-            "homepage": "https://mobiletiperz.com/archero-cheats-guide-tricks",
+            "name": "komfort nieruchomosci",
+            "homepage": "https://komfort.nieruchomosci.pl/",
             "role": "Developer"
         }
     ],
